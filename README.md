@@ -1,2 +1,3 @@
-# ebac_visualizacao_de_dados
-Atividades do Curso de Ciências da Computação
+# Visualização de Dados
+Atividade do curso de Cientista de dados.
+Modulo de VISUALIZAÇÃO DE DADOS.
